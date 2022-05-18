@@ -1,4 +1,4 @@
-package com.icefire.keep.move.designpatterns.factory;
+package com.icefire.keep.move.designpatterns.factory.util;
 
 import com.icefire.keep.move.designpatterns.consts.Const;
 import com.icefire.keep.move.designpatterns.factory.service.Computer;

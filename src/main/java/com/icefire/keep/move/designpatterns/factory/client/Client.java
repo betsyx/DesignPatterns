@@ -1,13 +1,13 @@
 package com.icefire.keep.move.designpatterns.factory.client;
 
 import com.icefire.keep.move.designpatterns.consts.Const;
-import com.icefire.keep.move.designpatterns.factory.ComputerFactory;
 import com.icefire.keep.move.designpatterns.factory.service.Computer;
+import com.icefire.keep.move.designpatterns.factory.util.ComputerFactory;
 
 /**
  * @author: icefire
  * @date: 2022/5/18 15:12
- * @description: 客户端
+ * @description: 工厂模式客户端
  */
 public class Client {
 
